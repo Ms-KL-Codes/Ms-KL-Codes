@@ -1,5 +1,5 @@
-### Hi there 👋
-
+This GitHub is associated with my GitHub Education account with She Codes Australia.<br>
+For more content and projects please see: https://github.com/Ms-KL
 <!--
 **Ms-KL-Codes/Ms-KL-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
